@@ -6,5 +6,8 @@ public class GitTest {
         Scanner in = new Scanner(System.in);
         String userName = in.nextLine();
         System.out.println("Hello, " +userName + "!");
+        int x = 2, y = 3;
+        System.out.println(x*y);
+
     }
 }
