@@ -8,7 +8,7 @@ public class GitTest {
         System.out.println("Hello, " +userName + "!");
         int x = 2, y = 3;
         System.out.println(x*y);
-        System.out.println(x+Y);
+        System.out.println(x+y);
 
     }
 }
